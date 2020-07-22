@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2366c864-bd4b-4ed9-983e-42ff3f1cb501" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/selimfile" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/selimfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,5 +65,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2089" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595377187600">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2089" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1595377187600" />
   </component>
 </project>
