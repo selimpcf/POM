@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2366c864-bd4b-4ed9-983e-42ff3f1cb501" name="Default Changelist" comment="" />
+    <list default="true" id="2366c864-bd4b-4ed9-983e-42ff3f1cb501" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/selimfile" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/selimfile" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
